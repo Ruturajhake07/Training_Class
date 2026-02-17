@@ -1,0 +1,22 @@
+#string operations
+my_string = "Hello this is DYPIEMR College"
+
+#print(my_string(0))
+#print(my_string(1))
+#print(my_string(0,3))
+#print(my_string(len(my_string)-1))
+print(my_string.count('l'))
+
+
+#list
+my_list = ["Apple", "Banana", "Orange"]
+print(my_list[0])
+
+#dictionary
+
+my_dict = (
+    "Name" : "Rohan"
+    "Age" : "25"
+    "Gender" : "Male")
+
+#print(my_dict("Name"))
